@@ -1,0 +1,12 @@
+ul {
+    color: black;
+    border-style: dotted;
+    border-color: cyan;
+    border-width: 5px;
+}
+.espacamento_24 {
+    padding: 12px;
+    color: black;
+    border-color: aqua;
+    border-width: 2px;
+}
